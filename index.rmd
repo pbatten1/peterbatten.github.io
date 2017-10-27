@@ -1,7 +1,7 @@
 ---
-title: "It's a Wonderful Website"
+title: "Hello! This is Peter's site"
 ---
 
-Welcome to Peter's Website! There isn't much here yet, but maybe someday there will be!
+### I have a webpage!
 
-
+And I can put all kinds of stuff on it!
