@@ -1,7 +1,10 @@
 ---
-title: "Hello! This is Peter's site!!"
+title: "Hello! This is Peter's site!"
 ---
+I am Peter Batten, and there is more about me on the about tab!
 
-### I have a webpage!
 
-And I can put all kinds of stuff on it!
+
+![Credit to XKCD!](https://imgs.xkcd.com/comics/correlation.png)
+
+

@@ -6,7 +6,7 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:<pbatten1@binghamton.edu>
+      href: mailto:<pb2668@cumc.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/pbatten1/
 output:
