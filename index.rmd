@@ -2,9 +2,16 @@
 title: "Hello! This is Peter's site!"
 ---
 I am Peter Batten, and there is more about me on the about tab!
+Below is a copy of my current resume.
 
 
 
-![Credit to XKCD!](https://imgs.xkcd.com/comics/correlation.png)
+```{r, echo=FALSE}
+knitr::include_graphics("Resume.Official.P.Batten-1.png")
+
+```
+
+
+![Credit to XKCD](https://imgs.xkcd.com/comics/correlation.png)
 
 
