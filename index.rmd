@@ -12,6 +12,6 @@ knitr::include_graphics("P.Batten.Resume.Official.png")
 ```
 
 
-![Credit to XKCD](https://imgs.xkcd.com/comics/correlation.png)
+
 
 
