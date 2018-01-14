@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -31,10 +31,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -208,8 +210,8 @@ $(document).ready(function () {
 </div>
 
 
-<p>I am Peter Batten, and there is more about me on the about tab! Below is a copy of my current resume.</p>
-<p><img src="Resume.Official.P.Batten-1.png" /><!-- --></p>
+<p>There is more about me on the about tab! Below is a copy of my current resume.</p>
+<p><img src="P.Batten.Resume.Official.png" width="850" /></p>
 <div class="figure">
 <img src="https://imgs.xkcd.com/comics/correlation.png" alt="Credit to XKCD" />
 <p class="caption">Credit to XKCD</p>
