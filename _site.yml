@@ -10,5 +10,5 @@ navbar:
     - icon: fa-github fa-lg
       href: http://github.com
 output:
-  html_document
-    theme: "default"
+  html_document:
+    theme: lux
