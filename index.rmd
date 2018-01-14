@@ -1,8 +1,12 @@
 ---
 title: "Hello! This is Peter's site!"
 ---
-There is more about me on the about tab!
-Below is a copy of my current resume.
+
+<div style="text-align:center" markdown="1">
+![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAMAAQDGAAwAAQAAAAAAAAzlAAAAJDFhNjQ0YmM3LTVkOWYtNDg3ZC1iMmQ0LTRjOWRiZDdhYjIwZg.jpg)
+</div>
+<br><br>
+<font size=5>There is more about me on the about tab! Below is a copy of my current resume. </font>
 
 
 
