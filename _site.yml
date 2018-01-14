@@ -11,4 +11,4 @@ navbar:
       href: http://github.com
 output:
   html_document
-    
+    theme: "default"
