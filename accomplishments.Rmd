@@ -1,6 +1,5 @@
 ---
 title: "Accomplishments"
-output: html_document
 ---
 
 Some things.
