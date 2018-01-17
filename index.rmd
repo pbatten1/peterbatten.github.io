@@ -1,5 +1,5 @@
 ---
-title: "Hello! This is Peter's site!"
+title: <font color="black">"Hello! This is Peter's site!" </font>
 ---
 
 <div style="text-align:center" markdown="1">

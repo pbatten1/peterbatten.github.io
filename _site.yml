@@ -1,16 +1,20 @@
-name: "Yay internet!"
-output_dir: "."
+name: Yay internet!
+output_dir: .
 navbar:
-  title: "Home"
+  title: Home
   right:
-    - text: "About"
-      href: about.html
-    - text: "Accomplishments"
-      href: accomplishments.html
-    - icon: fa-envelope fa-lg
-      href: mailto:<pb2668@cumc.columbia.edu>
-    - icon: fa-github fa-lg
-      href: http://github.com
-
+  - text: About
+    href: about.html
+  - text: Accomplishments
+    href: accomplishments.html
+  - icon: fa-envelope fa-lg
+    href: mailto:<pb2668@cumc.columbia.edu>
+  - icon: fa-github fa-lg
+    href: http://github.com
 output:
-  html_document
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    lib_dir: site_libs
+    self_contained: no
+
