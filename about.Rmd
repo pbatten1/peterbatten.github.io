@@ -1,5 +1,5 @@
 ---
-title: <font color="black"> "A little bit about Peter" </font>
+title: <font color="black"> A little bit about Peter </font>
 ---
 
 <font size=3>I am currently a graduate student at Columbia's Mailman School of Public Health in the Biostatistics department. I graduated from SUNY Binghamton University with a BS in Biology and Economics in 2017. I am originally from Syracuse, New York, and currently live in New York City while attending Columbia. Despite living in New York state my whole life, I am a big Boston sports fan! </font>  
