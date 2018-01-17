@@ -16,5 +16,5 @@ output:
     theme: cerulean
     highlight: textmate
     lib_dir: site_libs
-    self_contained: no
+    self_contained: false
 

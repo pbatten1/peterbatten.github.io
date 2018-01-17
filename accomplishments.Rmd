@@ -1,5 +1,5 @@
 ---
-title: "Accomplishments"
+title: <font color="black"> "Accomplishments" </font>
 ---
 
 Some things.
