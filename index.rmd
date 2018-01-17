@@ -12,7 +12,6 @@ title: "Hello! This is Peter's site!"
 
 ```{r, echo=FALSE}
 knitr::include_graphics("P.Batten.Resume.Official.png")
-
 ```
 
 

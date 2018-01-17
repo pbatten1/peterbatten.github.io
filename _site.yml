@@ -6,7 +6,7 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Accomplishments"
-      href: accomplishments.rmd
+      href: accomplishments.html
     - icon: fa-envelope fa-lg
       href: mailto:<pb2668@cumc.columbia.edu>
     - icon: fa-github fa-lg
