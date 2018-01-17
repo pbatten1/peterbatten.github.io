@@ -4,7 +4,7 @@ title: "Accomplishments"
 
 Some things.
 
-```{r, out.width = "800px", echo=FALSE}
+```{r, out.width = "600px", echo=FALSE}
 knitr::include_graphics("https://scontent-atl3-1.cdninstagram.com/t51.2885-15/e35/14276592_545998382266075_4154081657042763776_n.jpg")
 ```
 <br>
