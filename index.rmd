@@ -1,20 +1,23 @@
 ---
-title: <font color="black">Hello! This is Peter's site! </font>
+title: <font color="black"><div style="text-align:center" markdown="1">Hello! This is Peter's site! </div></font>
 ---
-
+<style>
+body{
+background-image: url("rough.jpg");
+}
+</style>
 <div style="text-align:center" markdown="1">
-![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAMAAQDGAAwAAQAAAAAAAAzlAAAAJDFhNjQ0YmM3LTVkOWYtNDg3ZC1iMmQ0LTRjOWRiZDdhYjIwZg.jpg)
+```{r, out.width = "300px", echo=FALSE}
+knitr::include_graphics("PeterLinkedIn.jpg")
+```
 </div>
-<br><br>
-<font size=5>There is more about me on the about tab! Below is a copy of my current resume. </font>
+<br>
+<font size=5><font color="black"> There is more about me on the about tab! Below is a copy of my current resume. </font>
 
 
 
 ```{r, echo=FALSE}
 knitr::include_graphics("P.Batten.Resume.Official.png")
 ```
-
-
-
 
 
