@@ -12,7 +12,8 @@ knitr::include_graphics("PeterLinkedIn.jpg")
 ```
 </div>
 <br>
-<font size=5><font color="black"> There is more about me on the about tab! Below is a copy of my current resume. </font>
+<font size=5><font color="black"> There is more about me on the about tab! Below is a copy of my current resume. 
+<div style="text-align:center" markdown="1"> Contact: Email icon in the top right. [Linkedin](https://www.linkedin.com/in/peter-batten/) </div> </font>
 
 
 
