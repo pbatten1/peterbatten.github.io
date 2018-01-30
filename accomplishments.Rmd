@@ -23,3 +23,17 @@ knitr::include_graphics("https://scontent-atl3-1.cdninstagram.com/t51.2885-15/e3
 ```
 <br>
 <font face="Cambria"> My final poster presentation after a succesful summer at the CSIBS program, July 2016. </font>
+
+***
+>Master's level coursework, completed or in progress at the Columbia Mailman School of Public Health:
+
+<font color="black"><font size=4><font face="Cambria">
+* Biostatistical Methods I and II: Covers basic hypothesis testing, linear regression, generalized linear models, longitudinal data analysis, and survival analysis.
+<br>
+* Data Science I and II: Covers Data Wrangling, visualization in R through ggplot2 and other tools, interactive elements with Shiny and FlexDashboard, writing functions, random sampling, and some machine learning.
+<br>
+* Probability and Statistical Inference: Covers sample space and set theory, conditional probability, discrete and continuous random variables, joint and marginal distributions, exponential family of distributions, variable transformations, moment generating functions, Central Limit Theorem, and estimation.
+<br>
+* Epidemiology I: Covers basics of infectious disease epidemiology, study designs, generalizability, screening, and causal inference.  
+<br>
+* Randomized Clinical Trials I: Covers the rules and regulations of conducting a clinical trial from the pre-trial stages up through a Phase IV trial, with heavy emphasis on Phase III trials and the role of randomization. This course culminates in an original Phase II trial proposal. 

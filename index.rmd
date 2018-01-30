@@ -10,13 +10,11 @@ background-image: url("rough.jpg");
 ```{r, out.width = "300px", echo=FALSE}
 knitr::include_graphics("PeterLinkedIn.jpg")
 ```
-</div>
 <br>
-<font size=5><font color="black"> There is more about me on the about tab! Below is a copy of my current resume. 
+<font size=5><font color="black"> There's more about me on the about tab! You'll find things I've done, including projects and coursework, in the Accomplishments tab. Below is my current resume. 
 <div style="text-align:center" markdown="1"> Contact: Email icon in the top right. [Linkedin](https://www.linkedin.com/in/peter-batten/) </div> </font>
 
-
-
+<br>
 ```{r, echo=FALSE}
 knitr::include_graphics("P.Batten.Resume.Official.png")
 ```
