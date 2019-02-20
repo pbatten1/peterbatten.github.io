@@ -1,11 +1,11 @@
-name: Yay internet!
-output_dir: .
+name: Peter's Site
+output_dir: _site
 navbar:
-  title: Home
+  title: "Home"
   right:
-  - text: About
+  - text: "About"
     href: about.html
-  - text: Accomplishments
+  - text: "Accomplishments"
     href: accomplishments.html
   - icon: fa-envelope fa-lg
     href: mailto:<pb2668@cumc.columbia.edu>

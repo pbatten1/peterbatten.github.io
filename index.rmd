@@ -1,5 +1,6 @@
 ---
-title: <font color="black"><div style="text-align:center" markdown="1">Hello! This is Peter's site! </div></font>
+title: <font color="black"><div style="text-align:center" markdown="1">Hello! This
+  is Peter's site! </div></font>
 ---
 <style>
 body{
