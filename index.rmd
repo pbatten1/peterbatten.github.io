@@ -16,7 +16,7 @@ knitr::include_graphics("PeterLinkedIn.jpg")
 
 <br>
 ```{r, echo=FALSE}
-knitr::include_graphics("P.Batten.Resume.Feb19.jpg")
+knitr::include_graphics("P.Batten.Resume.Feb19.png")
 ```
 
 
