@@ -1,5 +1,4 @@
 name: Peter's Site
-output_dir: _site
 navbar:
   title: "Home"
   right:
